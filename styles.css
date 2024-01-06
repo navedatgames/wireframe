@@ -1,0 +1,19 @@
+.sign-in-btn {
+  max-width: 111px;
+  max-height: 40px;
+  height: 100%;
+  width: 100%;
+  border-radius: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background: linear-gradient(rgba(178, 237, 33, 0.99), rgba(100, 197, 58, 1));
+}
+
+.sign-in-text {
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 18.15px;
+  font-family: "Inter";
+  color: rgba(255, 255, 255, 1);
+}
